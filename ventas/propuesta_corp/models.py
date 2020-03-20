@@ -5,7 +5,7 @@ from multiselectfield import MultiSelectField
 import ventas.validaciones
 import os
 from django.core.files import File
-from educacion_continua2 import settings
+from educacion_continua import settings
 
 # Create your models here.
 
